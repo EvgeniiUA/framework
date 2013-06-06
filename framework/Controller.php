@@ -1,6 +1,6 @@
 <?php
 /**
- * Application class file
+ * Controller class file
  * @author Sinevid Evgenii (sinevid-evgenii@mail.ru)
  */
 
